@@ -39,7 +39,7 @@ function starts_with_ph (arr)
     return false;
 }
 
-let my_friends = [`ross`, `rachel`, `chandler`, `joey`, `phoebe`];
+let my_friends = [`ross`, `rachel`, `chandler`, `joey`];
 
 let i_remembered_phoebe = starts_with_ph(my_friends);
 
